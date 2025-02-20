@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    border: none;
+    transition: background-color 0.3s;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
