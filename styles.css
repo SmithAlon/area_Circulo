@@ -1,16 +1,21 @@
-/* styles.css */
-body {
-    background-color: white;
-    margin: 0;
-    padding: 0;
+#titulo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100px;
 }
 
-button {
-    border: none;
-    transition: background-color 0.3s;
+#formulario {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
-input {
-    border: 1px solid #ccc;
-    border-radius: 4px;
+#resultado {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
